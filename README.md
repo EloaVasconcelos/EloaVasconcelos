@@ -6,7 +6,7 @@
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=EloaVasconcelos&show_icons=true&theme=midnight-purple"/>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-<img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloaVasconcelos&layout=compact&theme=midnight-purple"/>
+<img align="right='15em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloaVasconcelos&layout=compact&theme=midnight-purple"/>
 
 
 
