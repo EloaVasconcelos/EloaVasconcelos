@@ -3,10 +3,10 @@
 <div> 
 <a href="https://github.com/EloaVasconcelos">
 
-<img height="215em" src="https://github-readme-stats.vercel.app/api?username=EloaVasconcelos&show_icons=true&theme=midnight-purple"/>
+<img height="1905em" src="https://github-readme-stats.vercel.app/api?username=EloaVasconcelos&show_icons=true&theme=midnight-purple"/>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-<img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloaVasconcelos&layout=compact&theme=midnight-purple"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloaVasconcelos&layout=compact&theme=midnight-purple"/>
 
 <br><br>
 ##
