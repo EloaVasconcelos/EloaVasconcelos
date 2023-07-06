@@ -5,7 +5,9 @@
 
 ![EloaVasconcelos GitHub stats](https://github-readme-stats.vercel.app/api?username=EloaVasconcelos&show_icons=true&bg_color=ffffff)
 
+[![EloaVasconcelos GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EloaVasconcelos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+[![EloaVasconcelos GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=EloaVasconcelos&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 </div>
 
 
