@@ -1,9 +1,12 @@
 ### Olá! Meu nome é Eloá e sou estudante do 2 ano do ensino médio  👋
 
+<div> 
 
 
-![EloaVM22(https://github-readme-stats.vercel.app/api?username=EloáVasconcelos&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
+
+</div>
 
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://eloavasconcelos.09.vm@gmail.com)
