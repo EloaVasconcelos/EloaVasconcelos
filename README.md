@@ -1,11 +1,10 @@
 ### Olá! Meu nome é Eloá e sou estudante do 2 ano do ensino médio  👋
-
+<br>
 <div> 
 <a href="https://github.com/EloaVasconcelos">
   
 [![EloaVasconcelos GitHub stats](https://github-readme-stats.vercel.app/api?username=EloaVasconcelos&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EloaVasconcelos&hide_progress=true&theme=midnight-purple)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EloaVasconcelos&layout=compact&theme=midnight-purple)
 </div>
 
 
@@ -19,13 +18,10 @@
   <img align="center" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-
-
   ##
-
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://eloavasconcelos.09.vm@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eloá-vasconcelos-3718a826a)
-
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram/eloaa.v)
 
 
