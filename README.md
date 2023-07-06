@@ -1,21 +1,16 @@
 ### Olá! Meu nome é Eloá e sou estudante do 2 ano do ensino médio juntamente com curso Técnico em Desenvolvimento de Sistemas  👋
 <br>
 <div> 
+
+
 <a href="https://github.com/EloaVasconcelos">
-   
 <img align="right='15em" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloaVasconcelos&layout=compact&theme=midnight-purple"/>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<br><br><br>
 <img height="210em" src="https://github-readme-stats.vercel.app/api?username=EloaVasconcelos&show_icons=true&theme=midnight-purple"/> 
 
 <br><br>
 
-
-
-<br><br>
 ##
-
-
 <div style="display: inline_block"><br>
    <img align="center" alt="Javascript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MySQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
