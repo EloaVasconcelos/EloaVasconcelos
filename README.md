@@ -1,4 +1,4 @@
-### Olá! Meu nome é Eloá e sou estudante do 2 ano do ensino médio juntamente com curso Técnico em Desenvolvimento de Sistemas  👋
+### Olá! Meu nome é Eloá e sou estudante do 3º ano do ensino médio juntamente com curso Técnico em Desenvolvimento de Sistemas  👋
 <br>
 <div> 
 
